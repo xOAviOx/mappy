@@ -62,7 +62,7 @@ class Cycling extends Workout {
   }
 }
 
-//App Architecture
+//App Architecture//
 class App {
   #map;
   #mapZoomLevel = 15;
